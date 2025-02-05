@@ -16,8 +16,7 @@ Qualification -> 25,00/25,00
 Qualification -> 60,00/70,00
 
 Feedback comments ->
-        OpenMP:
-        - Jacobi:
-          - Copy of matrix not optimized.
-        MPI:
-        - relax_gauss: Your code waits for all pieces of the upper boundary.
+#### OpenMP:
+##### Jacobi Copy of matrix not optimized.
+#### MPI:
+##### relax_gauss: Your code waits for all pieces of the upper boundary.
