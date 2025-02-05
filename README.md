@@ -21,4 +21,4 @@ Feedback comments ->
           - Copy of matrix not optimized.
           
         MPI:
-        - relax_gauss: Your code waits for all pieces of the upper boundary ...
+        - relax_gauss: Your code waits for all pieces of the upper boundary.
